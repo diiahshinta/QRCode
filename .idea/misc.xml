@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SJPQRCode/app/src/main/res/drawable/bg_dialog.xml" value="0.1" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/drawable/bg_menu.xml" value="0.2638888888888889" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_checker.xml" value="0.264" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_detail_inner_box.xml" value="0.27447916666666666" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_detail_master_box.xml" value="0.27447916666666666" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_detail_palet.xml" value="0.264" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_detail_produk.xml" value="0.27447916666666666" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_list_data.xml" value="0.14375" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_reject.xml" value="0.2794871794871795" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/activity_splashscreen.xml" value="0.27447916666666666" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/dialog_data.xml" value="0.264" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/dialog_replace.xml" value="0.2" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/item_batch.xml" value="0.27447916666666666" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/item_child.xml" value="0.39700996677740863" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/item_data.xml" value="0.14375" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/item_detail.xml" value="0.27447916666666666" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/layout/item_menu.xml" value="0.536" />
+        <entry key="..\:/SJPQRCode/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

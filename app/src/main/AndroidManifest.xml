@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.kosme.sjpqrcode">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="Kosme Product"
+        android:roundIcon="@drawable/ic_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SJPQRCode"
+        android:usesCleartextTraffic="true"
+        tools:replace="android:usesCleartextTraffic">
+        <activity
+            android:name=".LoginActivity"/>
+        <activity
+            android:name=".Splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MenuActivity" />
+        <activity android:name=".PaletActivity" />
+        <activity android:name=".ProductActivity" />
+        <activity android:name=".InnerboxActivity" />
+        <activity android:name=".MasterBoxActivity" />
+        <activity android:name=".ItemActivity" />
+        <activity android:name=".RejectActivity" />
+        <activity android:name=".CheckerActivity" />
+        <activity android:name=".MainActivity"/>
+    </application>
+
+</manifest>
